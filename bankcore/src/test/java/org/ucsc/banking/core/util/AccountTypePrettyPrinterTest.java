@@ -2,6 +2,7 @@ package org.ucsc.banking.core.util;
 
 import org.ucsc.banking.core.impl.NormalSavings;
 import org.ucsc.banking.core.impl.SalarySaver;
+import org.ucsc.banking.core.impl.KidSavings;
 
 import junit.framework.*;
 
